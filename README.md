@@ -4,7 +4,7 @@ This application helps a user to maintain an accurate account balance by trackin
 The application will function even when offline, and once
 online it will sync all data stored while offline. 
 
- ![Application Image](https://ibb.co/935XGzT)
+ ![Application Image](https://i.ibb.co/CsGdWN7/budget.png)
 
 ## Application Features
 
