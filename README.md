@@ -1,8 +1,10 @@
 # Budget Tracker PWA
 
+This application helps a user to maintain an accurate account balance by tracking withdraws and deposits.
+The application will function even when offline, and once
+online it will sync all data stored while offline. 
 
-
- ![Application Image](https://i.gyazo.com/57b3a109b5896dd4d26cb4a1c26edffa.jpg)
+ ![Application Image](https://ibb.co/935XGzT)
 
 ## Application Features
 
@@ -23,4 +25,4 @@
 
 ## Deployment
 
-https://damianisaacalexander.github.io/GetFed_Project/
+https://my-budget-tracker-v2.herokuapp.com/
