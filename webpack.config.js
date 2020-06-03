@@ -8,7 +8,7 @@ const config = {
       path: __dirname + "/public/assets/dist/",
       filename: "bundle.js"
     },
-    mode: "development",
+    mode: "production",
     plugins: [
         new MiniCssExtractPlugin({
         filename: "style.css"}),
